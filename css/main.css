@@ -1,50 +1,51 @@
+/*RESETS*/
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center, dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend, table, caption,
-tbody, tfoot, thead, tr, th, td, article, aside,
-canvas, details, embed, figure, figcaption, footer,
-header, hgroup, menu, nav, output, ruby, section,
-summary, time, mark, audio, video {
-margin: 0;
-padding: 0;
-border: 0;
-font: inherit;
-vertical-align: baseline;
-}
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center, dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend, table, caption,
+    tbody, tfoot, thead, tr, th, td, article, aside,
+    canvas, details, embed, figure, figcaption, footer,
+    header, hgroup, menu, nav, output, ruby, section,
+    summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-display: block;
-}
-body {
-line-height: 1;
-}
-blockquote, q {
-quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-content: '';
-content: none;
-}
-table {
-border-collapse: collapse;
-border-spacing: 0;
-}
-strong, b {
-font-weight: bold;
-}
-em, i {
-font-style: italic;
-}
-a img {
-border: none;
-}
-/* END RESET*/
+    footer, header, hgroup, menu, nav, section {
+    display: block;
+    }
+    body {
+    line-height: 1;
+    }
+    blockquote, q {
+    quotes: none;
+    }
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+    content: '';
+    content: none;
+    }
+    table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    }
+    strong, b {
+    font-weight: bold;
+    }
+    em, i {
+    font-style: italic;
+    }
+    a img {
+    border: none;
+    }
+/* END RESETS*/
 
 /* GLOBAL STYLES */
 html {
@@ -52,8 +53,8 @@ html {
   padding: 0 30px;
 }
 body {
-  font-family: helvetica, arial, sans-serif;h1 {
-  font-size: 7vw;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 2vw;
   margin-top: 0;
 }
 a {
@@ -149,10 +150,9 @@ color: #fff;
 }
 /* HERO STYLES */
 .full-hero {
-background-color: #c7dbfc;
 background-size: cover;
 box-sizing: border-box;
-height: 100vh;
+height: 70vh;
 padding-top: 10vh;
 }
 .hero-home {
@@ -182,10 +182,10 @@ vertical-align: middle;
 width: 2.5em;
 }
 
-.social-list > li {
+/*.social-list > li {
   display: inline-block;
   margin: 0 0.5em;
-}
+}*/
 /* BIO STYLES */
 .bio-wrapper {
 font-size: 24px;
@@ -219,3 +219,4 @@ width: 23%;
   font-size: 1em;}
 .bio-copy a {
 color: green;
+}
