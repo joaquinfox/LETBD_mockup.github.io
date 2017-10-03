@@ -53,9 +53,17 @@ html {
   padding: 0 30px;
 }
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   font-family: helvetica, arial, sans-serif;
-  font-size: 2vw;
-  margin-top: 0;
+  font-size: 2vh;
+}
+.content-container {
+  /*display:flex;*/
+  flex: 1 1 auto;
+  padding-top: 10vh;
+  width: 100%;
 }
 h1 {
   font-size: 7vw;
@@ -63,12 +71,6 @@ h1 {
 }
 a {
   color:#6397b5;
-}
-.content-container {
-  /*display:flex;*/
-  flex: 1 1 auto;
-  padding-top: 10vh;
-  width: 100%;
 }
 p {
   line-height: 1.5;
@@ -145,6 +147,7 @@ color: #fff;
   margin: 6rem auto;
   max-width: 980px;
   width: 90vw;
+  font-size: 1.5em;
 }
 .home-section h2 {
   margin-bottom: 1.5rem;
@@ -162,17 +165,16 @@ color: #fff;
   margin-top: 1em;
 }
 .callout-title {
-  flex: 1 1 0;
+  flex: 1;
   font-size: 5.75vw;
   text-align: right;
   text-transform: uppercase;
 }
 .callout-copy {
   flex: 0 0 50%;
-  font-size: 0.8rem;
-  max-width: 600px;
-  padding:0 3vw;
-  font-size: 0.8rem;
+  font-size: 1rem;
+  max-width: 800px;
+  padding:0 5vw;
 }
 /*FOOTER STYLES*/
 .footer {
@@ -203,8 +205,7 @@ color: #fff;
   background-color: #c7dbfc;
   background-size: cover;
   box-sizing: border-box;
-  height: 100vh;
-  padding-top: 10vh;
+  height: 90vh;
 }
 .full-hero:after {
   bottom: 5vh;
@@ -307,7 +308,7 @@ color: #fff;
 }
 .col {
   box-sizing: border-box;
-  padding: 2em;
+  padding: 5em;
 }
 .col-three .col ~ .col {
   border-left: 1px solid rgba(0, 0, 0, 0.1);
