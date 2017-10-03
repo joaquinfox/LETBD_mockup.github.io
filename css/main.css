@@ -49,7 +49,7 @@ article, aside, details, figcaption, figure,
 
 /* GLOBAL STYLES */
 html {
-  box-shadow: 0 0 0 30px #000 inset;
+  box-shadow: 0 0 0 35px #000 inset;
   padding: 0 30px;
 }
 body {
@@ -180,7 +180,6 @@ color: #fff;
   padding: 10vh 0 15vh;
   text-align: center;
 }
-
 .footer-logo img {
   width: 50px;
 }
@@ -230,7 +229,6 @@ color: #fff;
   color: rgba(255, 255, 255, .8);
   font-size: 5rem;
 }
-
 .hero-content .social-link {
   background-color: rgba(255, 255, 255, .8);
   color: #557c83;
@@ -266,7 +264,6 @@ color: #fff;
   vertical-align: middle;
   width: 2.5em;
 }
-
 .social-list > li {
   display: inline-block;
   margin: 0 0.5em;
@@ -302,9 +299,6 @@ color: #fff;
 }
 .bio-copy {
   font-size: .75em;
-}
-.bio-copy a {
-  color: green;
 }
 /*COLUMN*/
 .col-three {
