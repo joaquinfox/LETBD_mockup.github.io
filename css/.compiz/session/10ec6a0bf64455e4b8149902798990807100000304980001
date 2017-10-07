@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<compiz_session id="10ec6a0bf64455e4b8149902798990807100000304980001">
+  <window id="10ec6a0bf64455e4b8149902800034304600000304980034" title="Learn Enough Git to Be Dangerous | Learn Enough to Be Dangerous - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="73" y="27" width="1170" height="541"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10ec6a0bf64455e4b8149902800034304600000304980034" title="Untitled document - Google Docs - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="183" y="76" width="1066" height="625"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10ec6a0bf64455e4b8149902864282051000000304980035" title="(trusty)jimmy@localhost: ~/repos/website" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="73" y="27" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

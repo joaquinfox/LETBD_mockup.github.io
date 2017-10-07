@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<compiz_session id="10377521e78bcaa3fc149746888371573100000035980001">
+  <window id="10377521e78bcaa3fc149746893393600700000035980033" title="joaquinfox/website - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="73" y="27" width="1170" height="573"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10377521e78bcaa3fc149746996725031000000035980034" title="(trusty)jimmy@localhost: ~/repos/website" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="238" y="406" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

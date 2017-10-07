@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<compiz_session id="10221cf8352f9e70d149954795837070600000125690001">
+  <window id="10221cf8352f9e70d149954820251471000000125690036" title="(trusty)jimmy@localhost: ~/repos/website" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="557" y="26" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10221cf8352f9e70d149954818029339200000125690035" title="(trusty)jimmy@localhost: ~/tmp/website-copy" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="73" y="27" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10221cf8352f9e70d149954796931225700000125690034" title="Search Results - Atom Discussion - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="73" y="27" width="1066" height="625"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

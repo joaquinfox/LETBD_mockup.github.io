@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="10a9397b1340f05d7a148842274392716100000046940001">
+  <window id="10a9397b1340f05d7a14885914571908700000046940039" title="(trusty)jimmy@localhost: ~" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="73" y="27" width="484" height="348"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10a9397b1340f05d7a148859125114855100000046940038" title="Top 5 Bit Torrent Clients for Ubuntu - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="73" y="27" width="1170" height="669"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<compiz_session id="105b63faf6f2529b5d150136994954394000000035500001">
+  <window id="105b63faf6f2529b5d150213269626393900000035500054" title="(trusty)jimmy@localhost: ~/repos/joaquinfox.github.io/LETBD" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="0" y="27" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+  <window id="105b63faf6f2529b5d150213289747157900000035500055" title="(trusty)jimmy@localhost: ~/repos/joaquinfox.github.io/LETBD/images" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="659" y="383" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+  <window id="105b63faf6f2529b5d150212856012754400000035500053" title="Learn Enough CSS &amp; Layout to Be Dangerous | Learn Enough to Be Dangerous - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="0" y="27" width="800" height="600"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

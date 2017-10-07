@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="101b04fe6f7889f8c5149386105829162200000170530001">
+  <window id="101b04fe6f7889f8c5149386108185345400000170530034" title="Learn Enough Command Line to Be Dangerous | Learn Enough to Be Dangerous - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="73" y="27" width="1170" height="637"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="101b04fe6f7889f8c5149386107641136200000170530033" title="(trusty)jimmy@localhost: ~" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="73" y="27" width="484" height="348"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="102d38542041130144148822301447239600000040580001">
+  <window id="102d3854204113014414882263602677400000040580036" title="Learn Enough Text Editor to Be Dangerous | LearnEnough.com - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="73" y="27" width="1170" height="669"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="102d38542041130144148842203126168800000040580040" title="(trusty)jimmy@localhost: ~" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="73" y="27" width="484" height="348"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

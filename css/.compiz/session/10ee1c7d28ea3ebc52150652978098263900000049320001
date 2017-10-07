@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<compiz_session id="10ee1c7d28ea3ebc52150652978098263900000049320001">
+  <window id="10ee1c7d28ea3ebc5215065297903603200000049320034" title="(trusty)jimmy@localhost: ~/repos/joaquinfox.github.io" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="0" y="27" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10ee1c7d28ea3ebc52150654325724882000000049320041" title="(trusty)jimmy@localhost: ~/repos/joaquinfox.github.io" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="484" y="27" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10ee1c7d28ea3ebc52150654348977165300000049320042" title="Test Page: Don't Panic - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="566" y="232" width="800" height="536"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

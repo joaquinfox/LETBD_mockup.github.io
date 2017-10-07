@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<compiz_session id="1088c2eb63130a02fa149499655829415700000064560001">
+  <window id="1088c2eb63130a02fa149504764017868700000064560035" title="(trusty)jimmy@localhost: ~" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="264" y="219" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+  <window id="1088c2eb63130a02fa149504890395632400000064560037" title="Install atom in Ubuntu version 14.04 LTS (64 bit) - Ask Ubuntu - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="73" y="74" width="1170" height="605"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

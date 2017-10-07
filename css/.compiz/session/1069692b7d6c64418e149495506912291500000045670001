@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="1069692b7d6c64418e149495506912291500000045670001">
+  <window id="1069692b7d6c64418e149495508055418800000045670034" title="How to install Atom editor in Ubuntu 14.04 | Codeforgeek - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="196" y="163" width="1170" height="605"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="1069692b7d6c64418e149495507778224200000045670033" title="(trusty)jimmy@localhost: /usr/bin" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="73" y="27" width="484" height="348"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

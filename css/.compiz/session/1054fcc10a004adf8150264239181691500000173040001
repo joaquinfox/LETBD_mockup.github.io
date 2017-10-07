@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<compiz_session id="1054fcc10a004adf8150264239181691500000173040001">
+  <window id="1054fcc10a004adf8150266778286650600000173040037" title="11.04 - Sound in VLC is out of sync - Ask Ubuntu - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="74" y="27" width="800" height="568"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="1054fcc10a004adf8150267051832049400000173040041" title="(trusty)jimmy@localhost: ~" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="0" y="27" width="484" height="316"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

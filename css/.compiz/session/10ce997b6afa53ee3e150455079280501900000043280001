@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<compiz_session id="10ce997b6afa53ee3e150455079280501900000043280001">
+  <window id="10ce997b6afa53ee3e150462779567724700000043280044" title="(trusty)jimmy@localhost: ~" class="UXTerm" name="xterm" command="xterm">
+    <geometry x="0" y="27" width="484" height="348"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10ce997b6afa53ee3e150462717164928300000043280040" title="How to Uninstall Software Using the Command Line in Linux - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="74" y="27" width="800" height="568"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>
