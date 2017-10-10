@@ -1,50 +1,50 @@
 /*RESETS*/
 html, body, div, span, applet, object, iframe,
-    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-    a, abbr, acronym, address, big, cite, code,
-    del, dfn, em, img, ins, kbd, q, s, samp,
-    small, strike, strong, sub, sup, tt, var,
-    b, u, i, center, dl, dt, dd, ol, ul, li,
-    fieldset, form, label, legend, table, caption,
-    tbody, tfoot, thead, tr, th, td, article, aside,
-    canvas, details, embed, figure, figcaption, footer,
-    header, hgroup, menu, nav, output, ruby, section,
-    summary, time, mark, audio, video {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font: inherit;
-    vertical-align: baseline;
-    }
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption,
+tbody, tfoot, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption, footer,
+header, hgroup, menu, nav, output, ruby, section,
+summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+}
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
-    footer, header, hgroup, menu, nav, section {
-    display: block;
-    }
-    body {
-    line-height: 1;
-    }
-    blockquote, q {
-    quotes: none;
-    }
-    blockquote:before, blockquote:after,
-    q:before, q:after {
-    content: '';
-    content: none;
-    }
-    table {
-    border-collapse: collapse;
-    border-spacing: 0;
-    }
-    strong, b {
-    font-weight: bold;
-    }
-    em, i {
-    font-style: italic;
-    }
-    a img {
-    border: none;
-    }
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+strong, b {
+  font-weight: bold;
+}
+em, i {
+  font-style: italic;
+}
+a img {
+  border: none;
+}
 /* END RESETS*/
 
 /* GLOBAL STYLES */
@@ -129,7 +129,7 @@ h4 {
   padding-left: 1em;
 }
 .header-nav a {
-color: #fff;
+  color: #fff;
 }
 .nav-links a {
   font-size: 0.8rem;
@@ -139,13 +139,13 @@ color: #fff;
 }
 .nav-links a:hover,
 .nav-links a:active {
-color: #ed6e2f;
+  color: #ed6e2f;
 }
 .header-nav > li:first-child a {
-color: #ed6e2f;
+  color: #ed6e2f;
 }
 .header-nav > li:first-child a:hover {
-color: #fff;
+  color: #fff;
 }
 /*HOMEPAGE*/
 .home-section {
@@ -328,8 +328,8 @@ color: #fff;
   flex: 0 1 20em
 }
 .col-two {
-    font-size: 0.8em;
-display: flex;
+  font-size: 0.8em;
+  display: flex;
 }
 .col-two .col-aside {
   flex: 0 0 20em;
@@ -399,10 +399,41 @@ display: flex;
   background-size: cover;
   height: 6em;
   margin-bottom: 1.5em;
-  }
-  .post {
-    width: 100%;
-  }
+}
+.post {
+  width: 100%;
+}
+.post .post-content .post-footer {
+  margin: auto;
+  max-width: 40em;
+  width: 85vw;
+}
+.pull-left {
+  float: left;
+  margin: 2em 2em 2em -2%;
+}
+.pull-right {
+  float: right;
+  margin: 2em -2% 2em 2em
+}
+.post-aside {
+  background-color: rgba(0, 0, 0, 0.01);
+  float: right;
+  margin: 0 0 2em 2em;
+  padding: 2em;
+}
+.post .post-content {
+  font-size: 1.1rem;
+}
+.post-footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  font-style: italic;
+  margin-top: 3em;
+  padding-top: 2em;
+}
+.post-footer p {
+  font-size: 0.8em;
+}
 /*GALLERY*/
 .gallery-thumbs {
   height: 90vh;
