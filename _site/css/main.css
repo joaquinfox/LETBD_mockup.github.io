@@ -327,6 +327,34 @@ color: #fff;
 .col-three .col-aside {
   flex: 0 1 20em
 }
+.col-two {
+    font-size: 0.8em;
+display: flex;
+}
+.col-two .col-aside {
+  flex: 0 0 20em;
+  order: 1;
+}
+.col-two .col-constant {
+  flex:1;  font-size: 0.8em;
+}
+/*PAGE SYLES*/
+.page {
+  margin: 10vh auto 15vh;
+  max-width: 980px;
+  width: 85vw;
+}
+.page h1 {
+  font-size: 3em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+.page h2 {
+  margin-bottom: 0.5em;
+}
+.page h4 {
+  margin-bottom: 1em;
+}
 /*GALLERY*/
 .gallery-thumbs {
   height: 90vh;
