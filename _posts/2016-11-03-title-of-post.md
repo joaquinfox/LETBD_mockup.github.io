@@ -12,7 +12,7 @@ precisely*-having little or no money in my purse, and nothing
 particular to interest me on shore, I thought I would sail about a little
 and see the watery part of the world. It is a way I have of driving off
 the spleen and regulating the circulation.
-<img class="pull-left" src="http://placekitten.com/400/400"/>
+<img class="pull-left" src="http://placekitten.com/99/150"/>
 Whenever I find myself growing grim about the mouth; whenever it is a damp,
 drizzly November in my soul; whenever I find myself involuntarily pausing
 before coffin warehouses, and bringing up the rear of every funeral I meet;

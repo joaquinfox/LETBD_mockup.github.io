@@ -158,6 +158,17 @@ h4 {
   margin-bottom: 1.5rem;
   text-align: center;
 }
+.home-section h4 {
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+.home-section .post-header {
+  text-align: center;
+}
+.home-section .blog-posts {
+  width: 75%;
+  margin: auto;
+}
 .home-callout {
   display:flex;
   align-items: center;
@@ -247,6 +258,12 @@ h4 {
   background-image: url(/images/shark.jpg);
   background-position: center;
 }
+.half-hero {
+  background-position: center center;
+  background-size: cover;
+  height: 40vh;
+}
+
 /* SOCIAL STYLES */
 .social-list {
   list-style: none;
